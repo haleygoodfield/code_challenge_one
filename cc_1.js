@@ -69,7 +69,9 @@ let isLoggedIn= true;
 // Use logical operations to check access conditions and log results to the console.
 if (isLoggedIn) {console.log ("Permission Granted: User is logged in.");} else {console.log("Permission DENIED: User is not logged in.");}
 
-// JavaScript Basic Coding Challenge is Complete!!!!!! :)
+// JavaScript Basic Coding Challenge is Complete!!!! :)
+
+
  
 
 
