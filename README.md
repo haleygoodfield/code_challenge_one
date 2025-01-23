@@ -5,4 +5,5 @@ Hello everyone! This is my first coding project using JavaScript. My project is 
 + number data types
 + string data types
 + and boolean data types
+
 I hope that you enjoy my attempt on the challenge!  
