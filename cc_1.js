@@ -28,3 +28,34 @@ console.log("Product Name:", productName, "-", typeof productName);
 console.log("Product Price:", producePrice, "-", typeof producePrice);
 // Log each variable's value and its type to the console.
 console.log("Is Available:", isAvailable, "-", typeof isAvailable);
+
+
+// Task 3 - Number Data Type 
+//Declare a variable accountBalance using let and assign it a number representing the initial balance
+let accountBalance = 5000;
+ console.log("Initial Balance $", accountBalance);
+
+ // Perform basic arithmetic operations (+, -, *, /) and log the updated values
+
+ // Addition
+accountBalance += 2000;
+console.log("Input Balance: $", accountBalance)
+
+// Subtraction
+accountBalance -= 650
+console.log("Withdrawl Balance: $", accountBalance)
+
+// Multiplication 
+accountBalance *= 5.5
+console.log("Taxes Added Balance: $", accountBalance)
+
+// Division
+accountBalance /= 2
+console.log("Taking Out Half: $", accountBalance)
+
+
+
+
+
+
+
