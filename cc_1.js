@@ -37,17 +37,17 @@ let accountBalance = 5000;
 
  // Perform basic arithmetic operations (+, -, *, /) and log the updated values
 
- // Addition
+ // Addition 
 accountBalance += 2000;
-console.log("Account Balance with $2000 Deposit: $", accountBalance)
+console.log("Account Balance with $2000 Deposit: $", accountBalance) 
 
 // Subtraction
 accountBalance -= 650
-console.log("Account Balance with $650 Withdrawl: $", accountBalance)
+console.log("Account Balance with $650 Withdrawl: $", accountBalance) 
 
 // Multiplication 
 accountBalance *= 0.75
-console.log("Account Balance After Taxes: $", accountBalance)
+console.log("Account Balance After Taxes: $", accountBalance) 
 
 // Division
 accountBalance /= 2
@@ -64,10 +64,12 @@ console.log(welcomeMessage);
 
 // Task 5 - Boolean Data Type
 // Declare a variable isLoggedIn using let and assign it a boolean value indicating user login status.
-let isLoggedIn= true;
+let isLoggedIn= true
+let hasAccess = isLoggedIn && true;
 
 // Use logical operations to check access conditions and log results to the console.
-if (isLoggedIn) {console.log ("Permission Granted: User is logged in.");} else {console.log("Permission DENIED: User is not logged in.");}
+if (hasAccess) {console.log ("Permission Granted: User is logged in.");} else {console.log("Permission DENIED: User is not logged in.");}
+
 
 // JavaScript Basic Coding Challenge is Complete!!!! :)
 
